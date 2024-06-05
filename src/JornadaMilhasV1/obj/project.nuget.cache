@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "lqa+ULR2A5XwW+Ri5WEG+8QW1MRO6w4TOsTlOM+m3vl2uEmluQ1TYQPxjLFCRxMXBS4unrTdXNuWGUztdYTjjA==",
+  "dgSpecHash": "PAocqSc57oY9YQbezozQzs5X0l0eLXJWoaQ3CUUT2veMCZcGg5678l4FyNDwOkN1sQQ0Vee6RCtdV22o3gxERA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Raveli\\Desktop\\Brenda\\Materiais de estudos\\Testes\\3639-csharptestes-jornadamilhas-curso1\\src\\JornadaMilhasV1\\JornadaMilhas.csproj",
+  "projectFilePath": "C:\\Users\\Raveli\\Desktop\\Brenda\\Materiais de estudos\\Testes\\jornadaMilhas-com-teste\\jornadaMilhas-com-teste\\src\\JornadaMilhasV1\\JornadaMilhas.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Raveli\\.nuget\\packages\\azure.core\\1.25.0\\azure.core.1.25.0.nupkg.sha512",
     "C:\\Users\\Raveli\\.nuget\\packages\\azure.identity\\1.7.0\\azure.identity.1.7.0.nupkg.sha512",

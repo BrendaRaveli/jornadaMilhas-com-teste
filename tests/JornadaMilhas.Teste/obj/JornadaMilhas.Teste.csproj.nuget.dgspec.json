@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Raveli\\Desktop\\Brenda\\Materiais de estudos\\Testes\\3639-csharptestes-jornadamilhas-curso1\\tests\\JornadaMilhas.Teste\\JornadaMilhas.Teste.csproj": {}
+    "C:\\Users\\Raveli\\Desktop\\Brenda\\Materiais de estudos\\Testes\\jornadaMilhas-com-teste\\jornadaMilhas-com-teste\\tests\\JornadaMilhas.Teste\\JornadaMilhas.Teste.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Raveli\\Desktop\\Brenda\\Materiais de estudos\\Testes\\3639-csharptestes-jornadamilhas-curso1\\src\\JornadaMilhasV1\\JornadaMilhas.csproj": {
+    "C:\\Users\\Raveli\\Desktop\\Brenda\\Materiais de estudos\\Testes\\jornadaMilhas-com-teste\\jornadaMilhas-com-teste\\src\\JornadaMilhasV1\\JornadaMilhas.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Raveli\\Desktop\\Brenda\\Materiais de estudos\\Testes\\3639-csharptestes-jornadamilhas-curso1\\src\\JornadaMilhasV1\\JornadaMilhas.csproj",
+        "projectUniqueName": "C:\\Users\\Raveli\\Desktop\\Brenda\\Materiais de estudos\\Testes\\jornadaMilhas-com-teste\\jornadaMilhas-com-teste\\src\\JornadaMilhasV1\\JornadaMilhas.csproj",
         "projectName": "JornadaMilhas",
-        "projectPath": "C:\\Users\\Raveli\\Desktop\\Brenda\\Materiais de estudos\\Testes\\3639-csharptestes-jornadamilhas-curso1\\src\\JornadaMilhasV1\\JornadaMilhas.csproj",
+        "projectPath": "C:\\Users\\Raveli\\Desktop\\Brenda\\Materiais de estudos\\Testes\\jornadaMilhas-com-teste\\jornadaMilhas-com-teste\\src\\JornadaMilhasV1\\JornadaMilhas.csproj",
         "packagesPath": "C:\\Users\\Raveli\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Raveli\\Desktop\\Brenda\\Materiais de estudos\\Testes\\3639-csharptestes-jornadamilhas-curso1\\src\\JornadaMilhasV1\\obj\\",
+        "outputPath": "C:\\Users\\Raveli\\Desktop\\Brenda\\Materiais de estudos\\Testes\\jornadaMilhas-com-teste\\jornadaMilhas-com-teste\\src\\JornadaMilhasV1\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Raveli\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -84,14 +84,14 @@
         }
       }
     },
-    "C:\\Users\\Raveli\\Desktop\\Brenda\\Materiais de estudos\\Testes\\3639-csharptestes-jornadamilhas-curso1\\tests\\JornadaMilhas.Teste\\JornadaMilhas.Teste.csproj": {
+    "C:\\Users\\Raveli\\Desktop\\Brenda\\Materiais de estudos\\Testes\\jornadaMilhas-com-teste\\jornadaMilhas-com-teste\\tests\\JornadaMilhas.Teste\\JornadaMilhas.Teste.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Raveli\\Desktop\\Brenda\\Materiais de estudos\\Testes\\3639-csharptestes-jornadamilhas-curso1\\tests\\JornadaMilhas.Teste\\JornadaMilhas.Teste.csproj",
+        "projectUniqueName": "C:\\Users\\Raveli\\Desktop\\Brenda\\Materiais de estudos\\Testes\\jornadaMilhas-com-teste\\jornadaMilhas-com-teste\\tests\\JornadaMilhas.Teste\\JornadaMilhas.Teste.csproj",
         "projectName": "JornadaMilhas.Teste",
-        "projectPath": "C:\\Users\\Raveli\\Desktop\\Brenda\\Materiais de estudos\\Testes\\3639-csharptestes-jornadamilhas-curso1\\tests\\JornadaMilhas.Teste\\JornadaMilhas.Teste.csproj",
+        "projectPath": "C:\\Users\\Raveli\\Desktop\\Brenda\\Materiais de estudos\\Testes\\jornadaMilhas-com-teste\\jornadaMilhas-com-teste\\tests\\JornadaMilhas.Teste\\JornadaMilhas.Teste.csproj",
         "packagesPath": "C:\\Users\\Raveli\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Raveli\\Desktop\\Brenda\\Materiais de estudos\\Testes\\3639-csharptestes-jornadamilhas-curso1\\tests\\JornadaMilhas.Teste\\obj\\",
+        "outputPath": "C:\\Users\\Raveli\\Desktop\\Brenda\\Materiais de estudos\\Testes\\jornadaMilhas-com-teste\\jornadaMilhas-com-teste\\tests\\JornadaMilhas.Teste\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Raveli\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -108,8 +108,8 @@
           "net7.0": {
             "targetAlias": "net7.0",
             "projectReferences": {
-              "C:\\Users\\Raveli\\Desktop\\Brenda\\Materiais de estudos\\Testes\\3639-csharptestes-jornadamilhas-curso1\\src\\JornadaMilhasV1\\JornadaMilhas.csproj": {
-                "projectPath": "C:\\Users\\Raveli\\Desktop\\Brenda\\Materiais de estudos\\Testes\\3639-csharptestes-jornadamilhas-curso1\\src\\JornadaMilhasV1\\JornadaMilhas.csproj"
+              "C:\\Users\\Raveli\\Desktop\\Brenda\\Materiais de estudos\\Testes\\jornadaMilhas-com-teste\\jornadaMilhas-com-teste\\src\\JornadaMilhasV1\\JornadaMilhas.csproj": {
+                "projectPath": "C:\\Users\\Raveli\\Desktop\\Brenda\\Materiais de estudos\\Testes\\jornadaMilhas-com-teste\\jornadaMilhas-com-teste\\src\\JornadaMilhasV1\\JornadaMilhas.csproj"
               }
             }
           }

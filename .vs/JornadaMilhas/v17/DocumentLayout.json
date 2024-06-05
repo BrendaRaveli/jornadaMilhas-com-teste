@@ -1,9 +1,9 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\Raveli\\Desktop\\Brenda\\Materiais de estudos\\Testes\\3639-csharptestes-jornadamilhas-curso1\\",
+  "WorkspaceRootPath": "C:\\Users\\Raveli\\Desktop\\Brenda\\Materiais de estudos\\Testes\\jornadaMilhas-com-teste\\jornadaMilhas-com-teste\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{127A74CA-5A03-44A8-A60B-8AEEDB25E292}|tests\\JornadaMilhas.Teste\\JornadaMilhas.Teste.csproj|c:\\users\\raveli\\desktop\\brenda\\materiais de estudos\\testes\\3639-csharptestes-jornadamilhas-curso1\\tests\\jornadamilhas.teste\\ofertaviagemtest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{127A74CA-5A03-44A8-A60B-8AEEDB25E292}|tests\\JornadaMilhas.Teste\\JornadaMilhas.Teste.csproj|c:\\users\\raveli\\desktop\\brenda\\materiais de estudos\\testes\\jornadamilhas-com-teste\\jornadamilhas-com-teste\\tests\\jornadamilhas.teste\\ofertaviagemtest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{127A74CA-5A03-44A8-A60B-8AEEDB25E292}|tests\\JornadaMilhas.Teste\\JornadaMilhas.Teste.csproj|solutionrelative:tests\\jornadamilhas.teste\\ofertaviagemtest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -20,11 +20,11 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "OfertaViagemTest.cs",
-              "DocumentMoniker": "C:\\Users\\Raveli\\Desktop\\Brenda\\Materiais de estudos\\Testes\\3639-csharptestes-jornadamilhas-curso1\\tests\\JornadaMilhas.Teste\\OfertaViagemTest.cs",
+              "DocumentMoniker": "C:\\Users\\Raveli\\Desktop\\Brenda\\Materiais de estudos\\Testes\\jornadaMilhas-com-teste\\jornadaMilhas-com-teste\\tests\\JornadaMilhas.Teste\\OfertaViagemTest.cs",
               "RelativeDocumentMoniker": "tests\\JornadaMilhas.Teste\\OfertaViagemTest.cs",
-              "ToolTip": "C:\\Users\\Raveli\\Desktop\\Brenda\\Materiais de estudos\\Testes\\3639-csharptestes-jornadamilhas-curso1\\tests\\JornadaMilhas.Teste\\OfertaViagemTest.cs",
+              "ToolTip": "C:\\Users\\Raveli\\Desktop\\Brenda\\Materiais de estudos\\Testes\\jornadaMilhas-com-teste\\jornadaMilhas-com-teste\\tests\\JornadaMilhas.Teste\\OfertaViagemTest.cs",
               "RelativeToolTip": "tests\\JornadaMilhas.Teste\\OfertaViagemTest.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAABAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAmwBwAAAAJAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-05-20T03:06:24.281Z",
               "EditorCaption": ""

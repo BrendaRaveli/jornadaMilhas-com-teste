@@ -2924,11 +2924,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Raveli\\Desktop\\Brenda\\Materiais de estudos\\Testes\\3639-csharptestes-jornadamilhas-curso1\\src\\JornadaMilhasV1\\JornadaMilhas.csproj",
+      "projectUniqueName": "C:\\Users\\Raveli\\Desktop\\Brenda\\Materiais de estudos\\Testes\\jornadaMilhas-com-teste\\jornadaMilhas-com-teste\\src\\JornadaMilhasV1\\JornadaMilhas.csproj",
       "projectName": "JornadaMilhas",
-      "projectPath": "C:\\Users\\Raveli\\Desktop\\Brenda\\Materiais de estudos\\Testes\\3639-csharptestes-jornadamilhas-curso1\\src\\JornadaMilhasV1\\JornadaMilhas.csproj",
+      "projectPath": "C:\\Users\\Raveli\\Desktop\\Brenda\\Materiais de estudos\\Testes\\jornadaMilhas-com-teste\\jornadaMilhas-com-teste\\src\\JornadaMilhasV1\\JornadaMilhas.csproj",
       "packagesPath": "C:\\Users\\Raveli\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Raveli\\Desktop\\Brenda\\Materiais de estudos\\Testes\\3639-csharptestes-jornadamilhas-curso1\\src\\JornadaMilhasV1\\obj\\",
+      "outputPath": "C:\\Users\\Raveli\\Desktop\\Brenda\\Materiais de estudos\\Testes\\jornadaMilhas-com-teste\\jornadaMilhas-com-teste\\src\\JornadaMilhasV1\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Raveli\\AppData\\Roaming\\NuGet\\NuGet.Config",

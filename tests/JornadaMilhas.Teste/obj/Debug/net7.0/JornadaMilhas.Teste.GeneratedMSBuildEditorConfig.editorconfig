@@ -8,6 +8,6 @@ build_property.PlatformNeutralAssembly =
 build_property.EnforceExtendedAnalyzerRules = 
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = JornadaMilhas.Teste
-build_property.ProjectDir = C:\Users\Raveli\Desktop\Brenda\Materiais de estudos\Testes\3639-csharptestes-jornadamilhas-curso1\tests\JornadaMilhas.Teste\
+build_property.ProjectDir = C:\Users\Raveli\Desktop\Brenda\Materiais de estudos\Testes\jornadaMilhas-com-teste\jornadaMilhas-com-teste\tests\JornadaMilhas.Teste\
 build_property.EnableComHosting = 
 build_property.EnableGeneratedComInterfaceComImportInterop = 
